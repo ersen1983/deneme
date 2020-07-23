@@ -4,4 +4,7 @@ public class C {
         System.out.println("ertugrul");
         System.out.println("conflict");
     }
+    public static String firstLetterWriter(String word){
+        return word.substring(0,1).toUpperCase();
+    }
 }
