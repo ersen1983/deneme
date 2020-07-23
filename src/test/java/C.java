@@ -6,5 +6,6 @@ public class C {
     }
     public static String firstLetterWriter(String word){
         return word.substring(0,1).toUpperCase();
+
     }
 }
